@@ -1,0 +1,9 @@
+[{
+  "modid": "fpsboost",
+  "name": "FpsBoost",
+  "description": "Menu de otimizacao de FPS para Minecraft 1.8.9",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": [],
+  "useDependencyInformation": false
+}]
